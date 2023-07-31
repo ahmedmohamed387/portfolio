@@ -27,3 +27,17 @@
     margin-bottom: 15px;
 }
 /* end contant */
+/* start footer */
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.footer i{
+    margin: 10px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.footer p{
+    margin-bottom: 60px;
+}
+/* end footer */
